@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Apr 2025 17:45:14 at https://rustavalon.com/ https://rustavalon.com/login https://fredirca.github.io/faq +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rustavalon.com/ https://rustavalon.com/login https://fredirca.github.io/faq -O1 "C:\My Web Sites\EE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:45:24	Warning: 	Note: due to https://steamcommunity.com remote robots.txt rules, links beginning with these path will be forbidden: /actions/, /linkfilter/, /tradeoffer/, /trade/, /email/ (see in the options to disable this)
+17:45:31	Error: 	"Not Found" (404) at link https://fredirca.github.io/faq (from primary/primary)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/fonts/roboto-medium.woff2 (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/fonts/roboto-medium.svg (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Warning: 	Retry after error -4 (Connect Error) at link https://pubgslot.com/img/logo.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/img/twitter_blue.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/img/social-div.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/css/images/facebook.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/css/images/steam.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/css/images/twitter.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link kingskin.org/images/header.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/img/logotype.png?123 (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/css/images/history-short.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/css/images/history-short-1.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/css/images/history-short-5.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/img/add_button/button_csgo.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/img/add_button/button_csgo_hover.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/img/add_button/button_dota2.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://rustavalon.com/img/add_button/button_dota2_hover.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:18	Error: 	"Not Found" (404) at link https://community.cloudflare.steamstatic.com/public/shared/images/header/inbox_async_game_invite.png (from https://community.cloudflare.steamstatic.com/public/shared/css/shared_global.css?v=sd6kCnGQW5Ji&l=english&_cdn=cloudflare)
+17:49:37	Warning: 	Retry after error -4 (Connect Error) at link https://pubgslot.com/img/logo.png (from https://rustavalon.com/css/stylego.css?v=77)
+17:49:51	Error: 	"Connect Error" (-4) after 2 retries at link https://pubgslot.com/img/logo.png (from https://rustavalon.com/css/stylego.css?v=77)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 37 seconds : 833 links scanned, 809 files written (88546846 bytes overall) [25445936 bytes received at 91862 bytes/sec], 84448849 bytes transferred using HTTP compression in 690 files, ratio 24%, 29.7 requests per connection
+(19 errors, 3 warnings, 0 messages)

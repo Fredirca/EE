@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rustavalon.com	TRUE	/	FALSE	1999999999	PHPSESSID	bmttcovh44en6eirpokl0cq6v8
+steamcommunity.com	TRUE	/	FALSE	1999999999	sessionid	aceff40215de71366f3c64be
+steamcommunity.com	TRUE	/	FALSE	1999999999	steamCountry	AU%7C0ec8277e091d33913bc51d008cebceba
+steamcommunity.com	TRUE	/	FALSE	1999999999	SameSite	None
+
